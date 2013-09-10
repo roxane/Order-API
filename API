@@ -1,4 +1,4 @@
-$ git clone git@heroku.com:luv-data-faker.git
+$ git clone git@heroku.com:luv-data-faker.git -o heroku
 # Make a bare clone of the repository
 
 cd old-repository.git
